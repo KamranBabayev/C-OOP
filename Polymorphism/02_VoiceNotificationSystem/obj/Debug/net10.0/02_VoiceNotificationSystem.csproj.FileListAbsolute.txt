@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\bin\Debug\net10.0\02_VoiceNotificationSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\bin\Debug\net10.0\02_VoiceNotificationSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\bin\Debug\net10.0\02_VoiceNotificationSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\bin\Debug\net10.0\02_VoiceNotificationSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\bin\Debug\net10.0\02_VoiceNotificationSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\refint\02_VoiceNotificationSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_VoiceNotificationSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\ref\02_VoiceNotificationSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\02_VoiceNotificationSystem\obj\Debug\net10.0\02_Voice.783AE212.Up2Date

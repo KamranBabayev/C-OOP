@@ -1,0 +1,16 @@
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\bin\Debug\net10.0\04_DeliverySystem.exe
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\bin\Debug\net10.0\04_DeliverySystem.deps.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\bin\Debug\net10.0\04_DeliverySystem.runtimeconfig.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\bin\Debug\net10.0\04_DeliverySystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\bin\Debug\net10.0\04_DeliverySystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.AssemblyInfoInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.AssemblyInfo.cs
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.sourcelink.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\refint\04_DeliverySystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_DeliverySystem.genruntimeconfig.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\ref\04_DeliverySystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\04_Delivery\obj\Debug\net10.0\04_Deliv.84EAE067.Up2Date

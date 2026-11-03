@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\bin\Debug\net10.0\01_SmartLamp.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\bin\Debug\net10.0\01_SmartLamp.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\bin\Debug\net10.0\01_SmartLamp.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\bin\Debug\net10.0\01_SmartLamp.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\bin\Debug\net10.0\01_SmartLamp.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\refint\01_SmartLamp.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_SmartLamp.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\ref\01_SmartLamp.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\01_SmartLamp\obj\Debug\net10.0\01_Smart.FEF0D5A0.Up2Date

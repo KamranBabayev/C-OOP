@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="01_SmartLamp/01_SmartLamp.csproj" Id="ce1397d6-d53a-4249-afe5-54079f244482" />
+  <Project Path="02_CarDashboard/02_CarDashboard.csproj" Id="63e82483-a95d-460f-ac62-fa579111eba4" />
+  <Project Path="03_SmartDoor/03_SmartDoor.csproj" Id="74505942-d48c-40bf-92ad-71786c47ae1b" />
+</Solution>

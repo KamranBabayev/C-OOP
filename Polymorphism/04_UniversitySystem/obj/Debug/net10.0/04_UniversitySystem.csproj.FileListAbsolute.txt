@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\bin\Debug\net10.0\04_UniversitySystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\bin\Debug\net10.0\04_UniversitySystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\bin\Debug\net10.0\04_UniversitySystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\bin\Debug\net10.0\04_UniversitySystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\bin\Debug\net10.0\04_UniversitySystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\refint\04_UniversitySystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_UniversitySystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\ref\04_UniversitySystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\04_UniversitySystem\obj\Debug\net10.0\04_Unive.9FD7BEA4.Up2Date

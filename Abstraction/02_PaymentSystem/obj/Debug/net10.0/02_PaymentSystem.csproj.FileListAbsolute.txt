@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\bin\Debug\net10.0\02_PaymentSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\bin\Debug\net10.0\02_PaymentSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\bin\Debug\net10.0\02_PaymentSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\bin\Debug\net10.0\02_PaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\bin\Debug\net10.0\02_PaymentSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\refint\02_PaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_PaymentSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\ref\02_PaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\02_PaymentSystem\obj\Debug\net10.0\02_Payme.9E9FD3DF.Up2Date

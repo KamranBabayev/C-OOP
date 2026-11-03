@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\bin\Debug\net10.0\05_EmployeSytem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\bin\Debug\net10.0\05_EmployeSytem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\bin\Debug\net10.0\05_EmployeSytem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\bin\Debug\net10.0\05_EmployeSytem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\bin\Debug\net10.0\05_EmployeSytem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\refint\05_EmployeSytem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_EmployeSytem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\ref\05_EmployeSytem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\05_EmployeSytem\obj\Debug\net10.0\05_Emplo.CB99FD56.Up2Date

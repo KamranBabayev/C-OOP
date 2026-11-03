@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_ApplianceSystem/01_ApplianceSystem.csproj" />
+  <Project Path="02_ShapeSystem/02_ShapeSystem.csproj" />
+  <Project Path="03_BankSystem/03_BankSystem.csproj" Id="ab3df2fc-8f43-4ba4-85c6-bdbcaaa06382" />
+  <Project Path="04_TransportSystem/04_TransportSystem.csproj" Id="63371c66-c7b7-4920-97f0-827d50ea2167" />
+</Solution>

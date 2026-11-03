@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\bin\Debug\net10.0\02_CarDashboard.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\bin\Debug\net10.0\02_CarDashboard.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\bin\Debug\net10.0\02_CarDashboard.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\bin\Debug\net10.0\02_CarDashboard.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\bin\Debug\net10.0\02_CarDashboard.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\refint\02_CarDashboard.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDashboard.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\ref\02_CarDashboard.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\02_CarDashboard\obj\Debug\net10.0\02_CarDa.6905A7E8.Up2Date

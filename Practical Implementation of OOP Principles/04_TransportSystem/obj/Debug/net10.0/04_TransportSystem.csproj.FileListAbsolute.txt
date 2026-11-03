@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\bin\Debug\net10.0\04_TransportSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\bin\Debug\net10.0\04_TransportSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\bin\Debug\net10.0\04_TransportSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\bin\Debug\net10.0\04_TransportSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\bin\Debug\net10.0\04_TransportSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\refint\04_TransportSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_TransportSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\ref\04_TransportSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\04_TransportSystem\obj\Debug\net10.0\04_Trans.A43B0243.Up2Date

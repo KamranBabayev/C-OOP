@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_OnlinePaymentSystem/01_OnlinePaymentSystem.csproj" Id="d4183214-c41f-4d75-9040-f944ba7caddb" />
+  <Project Path="02_VoiceNotificationSystem/02_VoiceNotificationSystem.csproj" Id="4bb42e43-a317-4e6e-9329-f47c6d258ab5" />
+  <Project Path="03_ImageEditor/03_ImageEditor.csproj" Id="0ec257c8-fe22-4e1d-ae78-f2003427fc36" />
+  <Project Path="04_UniversitySystem/04_UniversitySystem.csproj" Id="c9e41be6-8a06-469d-b4b9-45e6d66e4ff0" />
+</Solution>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_MarketSystem/01_MarketSystem.csproj" />
+  <Project Path="02_SuperMarketSystem/02_SuperMarketSystem.csproj" Id="c5a2b438-98fe-4972-aa28-a9753b591776" />
+  <Project Path="03_TravelReservationSystem/03_TravelReservationSystem.csproj" Id="1705d2ce-3636-47b3-bcdd-ddc05fb7fa0a" />
+  <Project Path="04_Delivery/04_DeliverySystem.csproj" Id="4b114e4e-7031-44a8-b71f-fc11f7545ed6" />
+</Solution>

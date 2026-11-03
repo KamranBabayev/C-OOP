@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\abstraction\\05_employesytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|solutionrelative:05_employesytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\abstraction\\05_employesytem\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|solutionrelative:05_employesytem\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\abstraction\\05_employesytem\\models\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|solutionrelative:05_employesytem\\models\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\abstraction\\05_employesytem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8116AA77-68E8-4704-9831-8EDBE6F690AC}|05_EmployeSytem\\05_EmployeSytem.csproj|solutionrelative:05_employesytem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Program.cs",
+              "RelativeDocumentMoniker": "05_EmployeSytem\\Program.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Program.cs",
+              "RelativeToolTip": "05_EmployeSytem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:59:06.382Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Models\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "05_EmployeSytem\\Models\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Models\\PartTimeEmployee.cs",
+              "RelativeToolTip": "05_EmployeSytem\\Models\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T22:07:06.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Models\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "05_EmployeSytem\\Models\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Models\\FullTimeEmployee.cs",
+              "RelativeToolTip": "05_EmployeSytem\\Models\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T22:05:42.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "05_EmployeSytem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Abstraction\\05_EmployeSytem\\Models\\Employee.cs",
+              "RelativeToolTip": "05_EmployeSytem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T22:01:25.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

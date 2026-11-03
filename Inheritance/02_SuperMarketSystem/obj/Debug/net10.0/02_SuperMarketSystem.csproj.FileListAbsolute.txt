@@ -1,0 +1,16 @@
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\bin\Debug\net10.0\02_SuperMarketSystem.exe
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\bin\Debug\net10.0\02_SuperMarketSystem.deps.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\bin\Debug\net10.0\02_SuperMarketSystem.runtimeconfig.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\bin\Debug\net10.0\02_SuperMarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\bin\Debug\net10.0\02_SuperMarketSystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.AssemblyInfo.cs
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.sourcelink.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\refint\02_SuperMarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_SuperMarketSystem.genruntimeconfig.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\ref\02_SuperMarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\02_SuperMarketSystem\obj\Debug\net10.0\02_Super.F5690FE5.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\bin\Debug\net10.0\04_GeometricShapes.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\bin\Debug\net10.0\04_GeometricShapes.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\bin\Debug\net10.0\04_GeometricShapes.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\bin\Debug\net10.0\04_GeometricShapes.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\bin\Debug\net10.0\04_GeometricShapes.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\refint\04_GeometricShapes.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_GeometricShapes.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\ref\04_GeometricShapes.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\04_GeometricShapes\obj\Debug\net10.0\04_Geome.CD0A0687.Up2Date

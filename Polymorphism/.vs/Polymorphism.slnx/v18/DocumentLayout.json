@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\polymorphism\\04_universitysystem\\models\\rector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|solutionrelative:04_universitysystem\\models\\rector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\polymorphism\\04_universitysystem\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|solutionrelative:04_universitysystem\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\polymorphism\\04_universitysystem\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|solutionrelative:04_universitysystem\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\polymorphism\\04_universitysystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|solutionrelative:04_universitysystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|c:\\users\\kamran\\onedrive\\\u0130\u015F masas\u0131\\myapp\\object-oriented programming\\polymorphism\\04_universitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E41BE6-8A06-469D-B4B9-45E6D66E4FF0}|04_UniversitySystem\\04_UniversitySystem.csproj|solutionrelative:04_universitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Program.cs",
+              "RelativeDocumentMoniker": "04_UniversitySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Program.cs",
+              "RelativeToolTip": "04_UniversitySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:56:41.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rector.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Rector.cs",
+              "RelativeDocumentMoniker": "04_UniversitySystem\\Models\\Rector.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Rector.cs",
+              "RelativeToolTip": "04_UniversitySystem\\Models\\Rector.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:04:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "04_UniversitySystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Student.cs",
+              "RelativeToolTip": "04_UniversitySystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:03:01.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Human.cs",
+              "RelativeDocumentMoniker": "04_UniversitySystem\\Models\\Human.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Human.cs",
+              "RelativeToolTip": "04_UniversitySystem\\Models\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:02:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "04_UniversitySystem\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\kamran\\OneDrive\\\u0130\u015F masas\u0131\\myApp\\Object-Oriented Programming\\Polymorphism\\04_UniversitySystem\\Models\\Teacher.cs",
+              "RelativeToolTip": "04_UniversitySystem\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:02:43.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

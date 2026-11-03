@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\bin\Debug\net10.0\03_BankSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\bin\Debug\net10.0\03_BankSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\bin\Debug\net10.0\03_BankSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\bin\Debug\net10.0\03_BankSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\bin\Debug\net10.0\03_BankSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\refint\03_BankSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\ref\03_BankSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\03_BankSystem\obj\Debug\net10.0\03_BankS.96CD509E.Up2Date

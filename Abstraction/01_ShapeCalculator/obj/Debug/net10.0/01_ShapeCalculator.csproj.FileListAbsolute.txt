@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\bin\Debug\net10.0\01_ShapeCalculator.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\bin\Debug\net10.0\01_ShapeCalculator.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\bin\Debug\net10.0\01_ShapeCalculator.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\bin\Debug\net10.0\01_ShapeCalculator.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\bin\Debug\net10.0\01_ShapeCalculator.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\refint\01_ShapeCalculator.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_ShapeCalculator.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\ref\01_ShapeCalculator.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\01_ShapeCalculator\obj\Debug\net10.0\01_Shape.DBBBFCC3.Up2Date

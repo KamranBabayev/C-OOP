@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\bin\Debug\net10.0\01_OnlinePaymentSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\bin\Debug\net10.0\01_OnlinePaymentSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\bin\Debug\net10.0\01_OnlinePaymentSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\bin\Debug\net10.0\01_OnlinePaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\bin\Debug\net10.0\01_OnlinePaymentSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\refint\01_OnlinePaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_OnlinePaymentSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\ref\01_OnlinePaymentSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\01_OnlinePaymentSystem\obj\Debug\net10.0\01_Onlin.FEAC0B61.Up2Date

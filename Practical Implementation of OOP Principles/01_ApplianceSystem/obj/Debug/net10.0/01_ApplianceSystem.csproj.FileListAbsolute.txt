@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\bin\Debug\net10.0\01_ApplianceSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\bin\Debug\net10.0\01_ApplianceSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\bin\Debug\net10.0\01_ApplianceSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\bin\Debug\net10.0\01_ApplianceSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\bin\Debug\net10.0\01_ApplianceSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\refint\01_ApplianceSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_ApplianceSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\ref\01_ApplianceSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\01_ApplianceSystem\obj\Debug\net10.0\01_Appli.1A15EFAB.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\bin\Debug\net10.0\03_ImageEditor.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\bin\Debug\net10.0\03_ImageEditor.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\bin\Debug\net10.0\03_ImageEditor.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\bin\Debug\net10.0\03_ImageEditor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\bin\Debug\net10.0\03_ImageEditor.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\refint\03_ImageEditor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_ImageEditor.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\ref\03_ImageEditor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Polymorphism\03_ImageEditor\obj\Debug\net10.0\03_Image.733C67E2.Up2Date

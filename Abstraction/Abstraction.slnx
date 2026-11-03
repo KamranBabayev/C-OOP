@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01_ShapeCalculator/01_ShapeCalculator.csproj" />
+  <Project Path="02_PaymentSystem/02_PaymentSystem.csproj" Id="97dc9ff0-4b45-4aaf-964a-ead78cb5bb4f" />
+  <Project Path="03_AnimalSounds/03_AnimalSounds.csproj" Id="4b51a43a-60c3-4053-b2cd-f9e238b6f064" />
+  <Project Path="04_GeometricShapes/04_GeometricShapes.csproj" Id="12f6b677-d61d-4d5b-9310-c2ab5ec0707f" />
+  <Project Path="05_EmployeSytem/05_EmployeSytem.csproj" Id="8116aa77-68e8-4704-9831-8edbe6f690ac" />
+</Solution>

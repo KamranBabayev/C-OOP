@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\bin\Debug\net10.0\02_ShapeSystem.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\bin\Debug\net10.0\02_ShapeSystem.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\bin\Debug\net10.0\02_ShapeSystem.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\bin\Debug\net10.0\02_ShapeSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\bin\Debug\net10.0\02_ShapeSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\refint\02_ShapeSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_ShapeSystem.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\ref\02_ShapeSystem.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Practical Implementation of OOP Principles\02_ShapeSystem\obj\Debug\net10.0\02_Shape.6A690986.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.AssemblyInfo.cs
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.sourcelink.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\bin\Debug\net10.0\01_MarketSystem.exe
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\bin\Debug\net10.0\01_MarketSystem.deps.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\bin\Debug\net10.0\01_MarketSystem.runtimeconfig.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\bin\Debug\net10.0\01_MarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\bin\Debug\net10.0\01_MarketSystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\refint\01_MarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_MarketSystem.genruntimeconfig.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\ref\01_MarketSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\01_MarketSystem\obj\Debug\net10.0\01_Marke.9AFFAEDC.Up2Date

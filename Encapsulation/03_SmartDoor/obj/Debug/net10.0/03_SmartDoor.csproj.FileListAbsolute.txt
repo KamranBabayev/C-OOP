@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\bin\Debug\net10.0\03_SmartDoor.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\bin\Debug\net10.0\03_SmartDoor.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\bin\Debug\net10.0\03_SmartDoor.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\bin\Debug\net10.0\03_SmartDoor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\bin\Debug\net10.0\03_SmartDoor.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\refint\03_SmartDoor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_SmartDoor.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\ref\03_SmartDoor.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Encapsulation\03_SmartDoor\obj\Debug\net10.0\03_Smart.0B93532C.Up2Date

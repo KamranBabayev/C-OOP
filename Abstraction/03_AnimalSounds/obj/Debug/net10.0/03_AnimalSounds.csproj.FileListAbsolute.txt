@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\bin\Debug\net10.0\03_AnimalSounds.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\bin\Debug\net10.0\03_AnimalSounds.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\bin\Debug\net10.0\03_AnimalSounds.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\bin\Debug\net10.0\03_AnimalSounds.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\bin\Debug\net10.0\03_AnimalSounds.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\refint\03_AnimalSounds.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_AnimalSounds.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\ref\03_AnimalSounds.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\Object-Oriented Programming\Abstraction\03_AnimalSounds\obj\Debug\net10.0\03_Anima.31803836.Up2Date

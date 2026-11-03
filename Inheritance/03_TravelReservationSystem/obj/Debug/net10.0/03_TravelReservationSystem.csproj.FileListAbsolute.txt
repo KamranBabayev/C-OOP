@@ -1,0 +1,16 @@
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\bin\Debug\net10.0\03_TravelReservationSystem.exe
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\bin\Debug\net10.0\03_TravelReservationSystem.deps.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\bin\Debug\net10.0\03_TravelReservationSystem.runtimeconfig.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\bin\Debug\net10.0\03_TravelReservationSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\bin\Debug\net10.0\03_TravelReservationSystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.AssemblyInfoInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.AssemblyInfo.cs
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.sourcelink.json
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\refint\03_TravelReservationSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.pdb
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_TravelReservationSystem.genruntimeconfig.cache
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\ref\03_TravelReservationSystem.dll
+C:\Users\kamran\Desktop\myApp\Object-Oriented Programming\Inheritance\03_TravelReservationSystem\obj\Debug\net10.0\03_Trave.1827E162.Up2Date
